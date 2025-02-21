@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 24 10:40:13 2024
 
-@author: Philipp Wunderl (philipp.wunderl@tum.de)
-"""
 
 import numpy as np
 import gc
