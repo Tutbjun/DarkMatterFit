@@ -1,0 +1,8 @@
+*.npy
+*.csv
+*.png
+*.zip
+*.dat
+*.tar.gz
+*.svg
+*.fuse*
